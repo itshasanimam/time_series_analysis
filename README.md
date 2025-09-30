@@ -58,11 +58,6 @@ forecast_out_sample = forecast_out_sample.replace([np.inf, -np.inf], np.nan).fil
 * statsmodels
 * matplotlib / seaborn (for visualization)
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
